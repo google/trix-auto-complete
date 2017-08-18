@@ -3,6 +3,9 @@
 This is a plugin that brings autocomplete to the Trix editor.
 This is not an official google product.
 
+**Installation**
+Right now you need to clone this repo into your tree.
+
 **How to Use**
 
 In order to use this plugin, the Trix editor must be used and a dropdown
